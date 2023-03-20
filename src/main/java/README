@@ -1,0 +1,5 @@
+Programa coleccion de vinilos.
+
+Se crean los vinilos y los muestra por pantalla
+Me encontre con el problema de las variables que creo en distintos metodos al invocarlas desde otro metodo, estas no se guardan,
+osea que me retornan el mismo valor inicial
